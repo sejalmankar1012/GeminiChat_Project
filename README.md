@@ -23,7 +23,7 @@ GeminiChat_Project/
 
 ## Prerequisites
 
-- Python 3.7 or later.
+- Python 3.10 or later.
 - A Google Generative AI (Bard) API key.
 
 ## Installation and Setup
