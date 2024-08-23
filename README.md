@@ -80,10 +80,4 @@ GeminiChat_Project/
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any enhancements or bug fixes.
 
-## License
 
-This project is licensed under the MIT License.
-
----
-
-Feel free to modify the `README.md` file according to your specific needs! Let me know if you need further help.
